@@ -5,7 +5,7 @@ import tensorflow as tf
 from io import BytesIO
 
 # Токен бота
-bot = telebot.TeleBot("7326578244:AAGWWYsRJ3UwFuyWms7pBLAzrLB2QJjD7yY")
+bot = telebot.TeleBot("токен")
 
 
 # Создание нейронной сети
